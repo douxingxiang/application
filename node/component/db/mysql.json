@@ -1,0 +1,21 @@
+{
+	"host": "localhost",
+	"port": 3306,
+	//localAddress,
+	//socketPath,
+	"user": "root",
+	"password": "",
+	"database":"dev",
+	"charset":"utf8",
+	"timezone": "local",
+	"stringifyObjects":false,//序列化对象
+	"insecureAuth", false,
+	"typeCast":true,
+	//queryFormat,
+	"supportBigNumbers": false,
+	"bigNumberStrings": false,
+	"dateStrings": false,
+	"debug": true,
+	"multipleStatements": false,
+	//"flags":
+}
